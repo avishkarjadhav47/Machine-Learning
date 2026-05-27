@@ -1,3 +1,4 @@
+<pre>
 ===========================================
 Model Evaluation / Resampling Methods
 │
@@ -484,3 +485,5 @@ hyperparameter tuning trains many models internally.)
 
 Boostrapping-->n_bootstrap
 Permutation Test-->n_permutations
+
+</pre>
