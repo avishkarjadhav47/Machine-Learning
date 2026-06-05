@@ -1,3 +1,4 @@
+<pre>
 # Important Notes on Feature Selection Methods
 
 # 1. Filter Methods
@@ -260,3 +261,5 @@ In your experiments, features like:
 * MonthsEmployed
 
 appeared consistently across methods, indicating strong predictive importance for loan default prediction.
+
+</pre>

@@ -1,3 +1,4 @@
+<pre>
 # PCA + Dimensionality Reduction Final Revision Notes
 
 --------------------------------------------------
@@ -305,3 +306,5 @@ Lower dimensions -> Faster distance calculations.
 - Use explained variance ratio to choose PCs
 - Keep ~90% variance
 - PCA is linear technique
+
+</pre>

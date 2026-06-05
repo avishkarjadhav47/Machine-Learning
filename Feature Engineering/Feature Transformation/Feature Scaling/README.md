@@ -1,3 +1,4 @@
+<pre>
 # FEATURE SCALING NOTES
 
 ## Definition
@@ -271,3 +272,4 @@ x' = \frac{x-x_{min}}{x_{max}-x_{min}}
 ```math
 x' = \frac{x-\text{Median}}{IQR}
 ```
+</pre>
