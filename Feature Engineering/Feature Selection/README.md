@@ -1,6 +1,33 @@
 <pre>
 # Important Notes on Feature Selection Methods
 
+Feature Selection
+│
+├── Filter Methods
+│   ├── Variance Threshold
+│   ├── Correlation
+│   ├── Chi-Square
+│   ├── ANOVA
+│   └── Mutual Information
+│
+├── Wrapper Methods
+│   ├── Exhaustive Feature Selection (EFS)
+│   ├── Sequential Forward Selection (SFS)
+│   ├── Sequential Backward Selection (SBS)
+│   ├── Recursive Feature Elimination (RFE)
+│   └── RFECV
+│
+└── Embedded Methods
+    ├── Lasso (L1)
+    ├── Elastic Net
+    └── Tree-Based Feature Selection
+         ├── Decision Tree
+         ├── Random Forest
+         ├── XGBoost
+         └── LightGBM
+
+
+
 # 1. Filter Methods
 
 Filter methods use statistical techniques to evaluate features independently of machine learning models.
@@ -173,7 +200,7 @@ Examples:
 
 ---
 
-# Overall Important Interview/Placement Concepts
+# Overall Important  Concepts
 
 ## 1. Data Leakage
 
